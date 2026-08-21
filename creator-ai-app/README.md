@@ -79,7 +79,7 @@ Teste avec la carte Stripe `4242 4242 4242 4242` — aucun vrai argent ne bouge 
 - **Assistant IA de support** : bulle de chat en bas à droite, visible par tous (connectés ou non). L'IA connaît en temps réel le catalogue de formations/services, le système de crédits, le fonctionnement des comptes et du paiement (voir `api/support/send.js`). Toi (admin) tu vois toutes les conversations dans Admin → Support, et tu peux répondre toi-même à tout moment — ta réponse apparaît directement dans le chat de la personne.
 
 
-
+                               
 | Fonction | État actuel |
 |---|---|
 | Vidéos/PDF de formation | Non hébergés — à brancher sur Mux/Cloudflare Stream + S3/R2 |
